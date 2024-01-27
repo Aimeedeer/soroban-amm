@@ -3,7 +3,7 @@
 
 mod allowance;
 mod balance;
-mod contract;
+pub mod contract;
 mod metadata;
 mod test;
 
